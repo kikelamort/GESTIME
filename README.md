@@ -20,12 +20,6 @@ Python 3.8 or higher
 Required libraries: python-telegram-bot, geocoder, sqlite3
 
 Installation 🛠️
-Clone the repository:
-
-bash
-Copy
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
 Install dependencies:
 
 bash
