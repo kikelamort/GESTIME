@@ -78,8 +78,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact 📧
 If you have any questions or suggestions, feel free to contact me:
 
-Email: youremail@example.com
+Email: info@gestime.es
 
-Telegram: @kikelamort
+gram: @kikelamort
 
 Thank you for using this bot! I hope it helps you manage your time tracking efficiently. 😊
